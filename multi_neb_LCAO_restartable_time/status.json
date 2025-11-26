@@ -3,5 +3,15 @@
     "initial_relaxed": true,
     "final_relaxed": true,
     "neb_done": true
+  },
+  "Li": {
+    "initial_relaxed": true,
+    "final_relaxed": true,
+    "neb_done": true
+  },
+  "Na": {
+    "initial_relaxed": true,
+    "final_relaxed": true,
+    "neb_done": true
   }
 }

@@ -1,0 +1,17 @@
+{
+  "li-li-bcc--110-": {
+    "initial_relaxed": true,
+    "final_relaxed": false,
+    "neb_done": false
+  },
+  "li-li-bcc--111-": {
+    "initial_relaxed": true,
+    "final_relaxed": false,
+    "neb_done": false
+  },
+  "li-li-bcc--100-": {
+    "initial_relaxed": true,
+    "final_relaxed": false,
+    "neb_done": false
+  }
+}
